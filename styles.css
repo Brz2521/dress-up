@@ -20,6 +20,7 @@ h1{
     left: 370px;
     height: 153px;
 }
+/* Location of the shirt on the Fem character */
 /*.clothes #shirt{
     position: absolute;
     top: 245px;
@@ -33,6 +34,7 @@ h1{
     left: 580px;
     height: 125px;
 }
+/* Location of the skirt on the Fem character */
 /*.clothes #skirt{
     position: absolute;
     top: 395px;
@@ -47,6 +49,22 @@ h1{
     margin-left: 335px;
     margin-top: -708px;
 }
+
+.clothes #shoes{
+    position: absolute;
+    top: 350px;
+    left: 400px;
+    height: 51px;
+}
+/* Location of the shoes on the Fem character */
+/*.clothes #shoes{
+    position: absolute;
+    top: 720px;
+    left: 130px;
+    height: 51px;
+}*/
+
+
 
 
 

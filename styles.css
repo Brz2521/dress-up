@@ -1,0 +1,52 @@
+body{
+    background-color: bisque;
+}
+h1{
+    text-align: center;
+}
+.char img{
+    height: 700px;
+    border: 2px solid;
+    
+}
+
+.char h2{
+    padding-left: 300px;
+}
+
+.clothes #shirt{
+    position: absolute;
+    top: 150px;
+    left: 370px;
+    height: 153px;
+}
+/*.clothes #shirt{
+    position: absolute;
+    top: 245px;
+    left: 92px;
+    height: 153px;
+}*/
+
+.clothes #skirt{
+    position: absolute;
+    top: 160px;
+    left: 580px;
+    height: 125px;
+}
+/*.clothes #skirt{
+    position: absolute;
+    top: 395px;
+    left: 109px;
+    height: 125px;
+}*/
+
+.clothes{
+    border: 2px solid;
+    width: 430px;
+    height: 700px;
+    margin-left: 335px;
+    margin-top: -708px;
+}
+
+
+

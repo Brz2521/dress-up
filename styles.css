@@ -64,6 +64,21 @@ h1{
     height: 51px;
 }*/
 
+/* Location of the dress on the Fem character */
+.clothes #dress{
+    position: absolute;
+    top: 300px;
+    left: 550px;
+    height: 450px;
+}
+
+/*.clothes #dress{
+    position: absolute;
+    top: 300px;
+    left: 550px;
+    height: 450px;
+}*/
+
 
 
 

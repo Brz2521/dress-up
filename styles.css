@@ -18,7 +18,7 @@ h1{
     position: absolute;
     top: 150px;
     left: 370px;
-    height: 153px;
+    height: 155px;
 }
 /* Location of the shirt on the Fem character */
 /*.clothes #shirt{
@@ -78,6 +78,10 @@ h1{
     left: 550px;
     height: 450px;
 }*/
+
+.clothes img:hover{
+    cursor: pointer;
+}
 
 
 

@@ -79,6 +79,19 @@ h1{
     height: 450px;
 }*/
 
+#hair{
+    position: absolute;
+    top: 450px;
+    left: 410px;
+    height: 160px;
+}
+/*#hair{
+    position: absolute;
+    top: 92px;
+    left: 140px;
+    height: 160px;
+}*/
+
 .clothes img:hover{
     cursor: pointer;
 }

@@ -5,15 +5,10 @@ location on the page.*/
 
 //Variables of each item
  const shirt = document.getElementById("shirt");
- const origLocaShirt = {top:"150px", left: "370px"};
  const skirt = document.getElementById("skirt");
- const origLocaSkirt = {top:"160px",left:"580px"};
  const shoes = document.getElementById("shoes");
- const origLocaShoes = {top:"350px",left:"400px"};
  const dress = document.getElementById("dress");
- const origLocaDress = {top:"300px",left:"550px"};
  const hair = document.getElementById("hair");
- const origLocaHair = {top:"450px",left:"410px"};
  let clickCount = 0;
 
  //Event listeners that listens for a click on a specific item
